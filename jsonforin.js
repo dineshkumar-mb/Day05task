@@ -22,13 +22,4 @@ let myresume = {
         console.log(key , myresume[key]); // using for in loop
     }
     
-    // for(let key of Object .keys(myresume)){
-    //     console.log (key,myresume[key]);    // using for of loop
-    // }
-    
-    // for (let key in myresume) {
-    //     if (myresume.hasOwnProperty(key)) {                               //using for loop
-    //         console.log(`Property ${key} has value: ${myresume[key]}`);
-    //     }
-    // }
-    
+  
